@@ -1,6 +1,6 @@
-# image_flutter_project
+# Image Picker
 
-A new Flutter project.
+A sample app for capturing image from camera and gallery 
 
 ## Getting Started
 
